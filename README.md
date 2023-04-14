@@ -13,3 +13,8 @@ Emails: Sulai@hotmail.fr, Sidcoulibaly@Outlook.fr
   À partir du client, nous devons pouvoir ajouter des villes (et des pays) en utilisant les opérations de service. 
   
   Ce service est très utile dans le cadre du domaine touristique/voyage, servant énormément aux agences de voyages pour satisfaire le besoin des clients. 
+  
+  
+![Capture](https://user-images.githubusercontent.com/99659301/232123261-e0cd3038-7935-4571-b000-8cbd39813d56.PNG)
+
+Ici, on peut trouver par exemple,le code qui permet d'ajouter une nouvelle destination (pays), mais également un code qui permet de rechercher une destination en fonction du pays entré.
